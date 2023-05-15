@@ -5,5 +5,5 @@
 - 🌱 J'apprends également le bash
 - 🤔 Je suis toujours à le recherche de vidéos instructifs 
 - 💬 Venez me parler de photographie
-- 💬 J'aimerais pouvoir aider dans la lutte aux changements climatiques avec le code
+- 💬 Dans un monde idéal, j'aimerais pouvoir aider dans la lutte aux changements climatiques avec le code
 - 📫 N'hésitez pas à me contacter!
