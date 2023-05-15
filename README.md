@@ -5,4 +5,4 @@
 - 🌱 J'apprends également le bash
 - 🤔 Je suis toujours à le recherche de vidéos instructifs 
 - 💬 Venez me parler de photographie
-- 📫 COntactez-moi par courriel si vous en avez envie
+- 📫 N'hésitez pas à me contatcer!
